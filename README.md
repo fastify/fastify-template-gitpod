@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli).
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-samples/template-fastify)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/fastify/fastify-template-gitpod)
 
 ## Available Scripts
 

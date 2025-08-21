@@ -10,7 +10,9 @@ const AppPath = path.join(__dirname, '..', 'app.js')
 // Fill in this config with all the configurations
 // needed for testing the application
 function config () {
-  return {}
+  return {
+    skipOverride: true // Register our application with fastify-plugin
+  }
 }
 
 // automatically build and tear down our instance
@@ -23,7 +25,7 @@ async function build (t) {
   // different from the production setup
   const app = await buildApplication(argv, config())
 
-  // tear down our app after we are done
+  // close the app after we are done
   t.after(() => app.close())
 
   return app

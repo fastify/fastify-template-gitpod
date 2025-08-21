@@ -15,10 +15,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fastify/autoload": "^5.10.0",
-    "@fastify/sensible": "^5.6.0",
+    "@fastify/autoload": "^6.0.0",
+    "@fastify/sensible": "^6.0.0",
     "fastify": "^5.12.5",
     "fastify-cli": "^8.0.3",
-    "fastify-plugin": "^4.5.1"
-  }
+    "fastify-plugin": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastify/fastify-template-gitpod.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fastify/fastify-template-gitpod/issues"
+  },
+  "homepage": "https://github.com/fastify/fastify-template-gitpod#readme"
 }

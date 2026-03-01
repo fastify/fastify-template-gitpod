@@ -1,8 +1,5 @@
-# Gitpod Fastify Template 
-
-This project was bootstrapped with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli).
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/fastify/fastify-template-gitpod)
+# Getting Started with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
+This project was bootstrapped with Fastify-CLI.
 
 ## Available Scripts
 
@@ -23,4 +20,4 @@ Run the test cases.
 
 ## Learn More
 
-To learn Fastify, check out the [Fastify documentation](https://www.fastify.io/docs/latest/).
+To learn Fastify, check out the [Fastify documentation](https://fastify.dev/docs/latest/).

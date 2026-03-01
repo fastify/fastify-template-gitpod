@@ -1,4 +1,4 @@
-# Gitpod Fastify Template 
+# Gitpod Fastify Template
 
 This project was bootstrapped with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli).
 

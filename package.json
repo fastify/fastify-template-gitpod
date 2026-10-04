@@ -17,8 +17,8 @@
   "dependencies": {
     "@fastify/autoload": "^5.10.0",
     "@fastify/sensible": "^5.6.0",
-    "fastify": "^4.28.1",
-    "fastify-cli": "^5.9.0",
+    "fastify": "^5.12.5",
+    "fastify-cli": "^8.0.3",
     "fastify-plugin": "^4.5.1"
   }
 }
